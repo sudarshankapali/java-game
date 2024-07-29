@@ -1,8 +1,8 @@
-#Java car game
+# Java car game
 
-##Run the project 
+## Run the project 
 
 - Open the car folder run the main class
 
-##Requirements 
+## Requirements 
 - JDK22
